@@ -1,11 +1,7 @@
 <h1>Site da Página Inicial de uma Marca de Skate com Responsividade Mobile e Desktop</h1>
 
 
-Para rodar basta abrir a pasta e executar o:
-
-```
-index.html
-```
+Para rodar é só abrir o seguinte link https://oliveiraup.github.io/Flex-e-Grid-CSS/ ou baixar a pasta e abrir o arquivo index.html
 
 
 
